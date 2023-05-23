@@ -1,2 +1,2 @@
-# CAE and VAE 
-Package for simple CAE and VAE implementation with Keras, 2D and 1D. 
+# AutoEncoders / Encoder - Decoder Models
+Keras / Tensorflow implementation of AutoEncoders (CAE / VAE) and Encoder - Decoder (U-Net) models.
