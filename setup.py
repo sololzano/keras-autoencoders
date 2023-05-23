@@ -20,6 +20,6 @@ setup(
     license='MIT',
     long_description_content_type='text/markdown',
     long_description=open('README.md').read(),
-    packages=['kerased'],
+    packages=['ed'],
     install_requires=install_requires
 )
